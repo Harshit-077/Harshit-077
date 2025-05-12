@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hello World! I'm Harshit Sharma
 
-<!--
-**Harshit-077/Harshit-077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year B.Tech CSE student at LPU  
+💻 Passionate about Full Stack Development, Cybersecurity & Machine Learning  
+🌱 Currently learning JavaScript, System Design, and contributing to open source  
+🤝 Member of Pahal NGO – working on community development projects  
+🎯 Goal: To build impactful tech solutions & crack top product-based companies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Tech Stack
+
+- **Languages**: C, C++, Python, JavaScript  
+- **Web Dev**: HTML, CSS, Node.js, Express.js  
+- **Databases**: MySQL  
+- **Tools**: Git, GitHub, VS Code, Cisco Packet Tracer  
+- **Concepts**: Data Structures & Algorithms, Computer Architecture, Networking
+
+---
+
+## 🚀 Projects & Highlights
+
+- 🌱 **Machine Learning Project** – Built a blockchain-based system to validate certificates  
+- 🌍 **Community Work** – Tree plantation, education drives, yoga activities & blood donation camps with Pahal NGO  
+- 📹 **YouTube Channel** – Teaching binary trees, BSTs, and more coding topics  
+- 🧠 **NPTEL Course** – Enrolled in "Privacy and Security in Social Media"
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit-077&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-077&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+- 📸 Instagram: [@harshit_sharma280](https://www.instagram.com/harshit_sharma280/)  
+- 💼 LinkedIn: [Harshit Sharma](www.linkedin.com/in/harshitsharma77)
+- 📧 Email: harshitsharma.0777@gmail.com
+
+---
+
+## 🌟 Fun Facts
+
+- I’d rather be **invisible** than be able to fly ✈️  
+- I listen to Hans Zimmer's *"Cornfield Chase"* while coding 🎧  
+- I once recovered from high fever and coded right after 😄
