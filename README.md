@@ -29,9 +29,9 @@
 
 ### 🧮 GitHub Stats
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitopia&show_icons=true&theme=radical)
+![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit-077&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitopia&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-077&layout=compact&theme=radical)
 
 
 ---
