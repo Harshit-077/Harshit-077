@@ -33,8 +33,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-077&layout=compact&theme=radical&cache_seconds=1800)
 
-![GitHub Snake](https://github.com/Harshit-077/Harshit-077/raw/output/github-contribution-grid-snake.svg)
-
 
 
 ---
