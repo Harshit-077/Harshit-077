@@ -10,9 +10,9 @@
 
 ## 💼 Tech Stack
 
-- **Languages**: C, C++, Python, JavaScript  
-- **Web Dev**: HTML, CSS, Node.js, Express.js  
-- **Databases**: MySQL  
+- **Languages**: C, C++, Python, Java
+- **Web Dev**: HTML, CSS, Next.js, JavaScript
+- **Databases**: MySQL, MongoDB
 - **Tools**: Git, GitHub, VS Code, Cisco Packet Tracer  
 - **Concepts**: Data Structures & Algorithms, Computer Architecture, Networking
 
@@ -20,10 +20,10 @@
 
 ## 🚀 Projects & Highlights
 
-- 🌱 **Machine Learning Project** – Built a blockchain-based system to validate certificates  
+- 🌱 **Machine Learning Project** – Built a plant disease identifier with resolution using API  
 - 🌍 **Community Work** – Tree plantation, education drives, yoga activities & blood donation camps with Pahal NGO  
 - 📹 **YouTube Channel** – Teaching binary trees, BSTs, and more coding topics  
-- 🧠 **NPTEL Course** – Enrolled in "Privacy and Security in Social Media"
+- 🧠 **NPTEL Course** – Silver Medal in "Privacy and Security in Social Media"
 
 ---
 
