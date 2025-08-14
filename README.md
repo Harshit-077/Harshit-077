@@ -1,52 +1,79 @@
-# 👋 Hello World! I'm Harshit Sharma
+# Hi there, I'm Harshit Sharma 👋
 
-🎓 2nd Year B.Tech CSE student at LPU  
-💻 Passionate about Full Stack Development, Cybersecurity & Machine Learning  
-🌱 Currently learning JavaScript, System Design, and contributing to open source  
-🤝 Member of Pahal NGO – working on community development projects  
-🎯 Goal: To build impactful tech solutions & crack top product-based companies
+**3rd Year B.Tech CSE student @ LPU**  
+Passionate about Full Stack Development, Cybersecurity & Machine Learning  
 
 ---
 
-## 💼 Tech Stack
-
-- **Languages**: C, C++, Python, Java
-- **Web Dev**: HTML, CSS, Next.js, JavaScript
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, GitHub, VS Code, Cisco Packet Tracer  
-- **Concepts**: Data Structures & Algorithms, Computer Architecture, Networking
+##  About Me
+- Currently honing skills in **JavaScript**, **System Design**, and actively contributing to **open-source projects**.
+- Earned a **Silver Medal** in the NPTEL course: *Privacy and Security in Social Media*.
+- Selected contributor for **GirlScript Summer of Code 2025** — multiple PRs merged in production.
 
 ---
 
-## 🚀 Projects & Highlights
+##  Tech Stack
 
-- 🌱 **Machine Learning Project** – Built a plant disease identifier with resolution using API  
-- 🌍 **Community Work** – Tree plantation, education drives, yoga activities & blood donation camps with Pahal NGO  
-- 📹 **YouTube Channel** – Teaching binary trees, BSTs, and more coding topics  
-- 🧠 **NPTEL Course** – Silver Medal in "Privacy and Security in Social Media"
-
----
-
-### 🧮 GitHub Stats
-
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit-077&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-077&layout=compact&theme=radical&cache_seconds=1800)
-
-
+| Category            | Tools & Technologies                             |
+|---------------------|--------------------------------------------------|
+| **Languages**        | C, C++, Python, Java                             |
+| **Web Development**  | HTML, CSS, JavaScript, Next.js                  |
+| **Databases**        | MySQL, MongoDB                                   |
+| **Tools**            | Git, GitHub, VS Code, Cisco Packet Tracer       |
+| **Concepts**         | Data Structures & Algorithms, Networking, Computer Architecture |
 
 ---
 
-## 📫 Connect with Me
+##  Projects & Highlights
 
-- 📸 Instagram: [@harshit_sharma280](https://www.instagram.com/harshit_sharma280/)  
-- 💼 LinkedIn: [Harshit Sharma](www.linkedin.com/in/harshitsharma77)
-- 📧 Email: harshitsharma.0777@gmail.com
+- **Machine Learning Project** – Blockchain-based certificate validation system for authenticity verification.
+- **YouTube Channel** – Sharing tutorials on binary trees, BSTs, and coding concepts *(link your channel)*.
+- **Academic Achievement** – Silver Medal in NPTEL’s *Privacy and Security in Social Media* course.
+- **Open Source Work** – Contributed UI and accessibility fixes to [DSA Sheet Template](https://dsa-sheet-template.vercel.app/) during GSSoC’25.
 
 ---
 
-## 🌟 Fun Facts
+##  Featured (Pinned) Projects
 
-- I’d rather be **invisible** than be able to fly ✈️  
-- I listen to Hans Zimmer's *"Cornfield Chase"* while coding 🎧  
-- I once recovered from high fever and coded right after 😄
+- **CoWrite** – A Google Docs clone supporting real-time collaborative editing using TypeScript.
+- **PortfolioWebsite** – A personal portfolio built with HTML and deployed live.
+- **LangGraph** – Visualized language processing or parsing using Jupyter Notebooks.
+- **Book-Recommender** – A Jupyter Notebook-based project that suggests books based on user input.
+- **Real-Time-Memory-Allocation-Tracker** – A visual tool (Python) to monitor memory allocation, showcasing paging and segmentation.
+
+---
+
+##  GitHub Statistics
+
+<!-- GitHub Stats Card -->
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-077&show_icons=true&theme=tokyonight)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Harshit-077&theme=tokyonight&hide_border=true)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-077&layout=compact&theme=tokyonight)
+
+
+---
+
+##  Connect With Me
+- **LinkedIn:** [Harshit Sharma](https://www.linkedin.com/in/harshitsharma77)  
+- **Instagram:** [@harshit_sharma280](https://www.instagram.com/harshit_sharma280)  
+- **Email:** harshitsharma.0777@gmail.com  
+
+---
+
+##  Fun Facts
+- If given a choice, I'd rather be **invisible** than fly.  
+- Coding sessions are best fueled by Hans Zimmer’s **"Cornfield Chase"**.  
+- I once coded right after recovering from a serious fever (no pain, no gain!).
+
+---
+
+##  What's Next
+- Deep diving into **System Design** and architecture patterns.
+- Building **accessible and scalable web applications**.
+- Continuing **open-source contributions** — especially through GSSoC and community-based projects.
+
+Thank you for stopping by! Let’s build something meaningful.  
