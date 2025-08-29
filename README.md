@@ -21,6 +21,7 @@ Passionate about Full Stack Development, Cybersecurity & Machine Learning
 | **Databases**        | MySQL, MongoDB                                   |
 | **Tools**            | Git, GitHub, VS Code, Cisco Packet Tracer       |
 | **Concepts**         | Data Structures & Algorithms, Networking, Computer Architecture |
+| **AI**              | Machine Learning, LangChain, LangGraph, CrewAI    |
 
 ---
 
@@ -40,6 +41,7 @@ Passionate about Full Stack Development, Cybersecurity & Machine Learning
 - **LangGraph** – Visualized language processing or parsing using Jupyter Notebooks.
 - **Book-Recommender** – A Jupyter Notebook-based project that suggests books based on user input.
 - **Real-Time-Memory-Allocation-Tracker** – A visual tool (Python) to monitor memory allocation, showcasing paging and segmentation.
+- **Crew-AI** - Visualized learning Crew AI, a Multi Model Agentic Platform.
 
 ---
 
@@ -47,9 +49,6 @@ Passionate about Full Stack Development, Cybersecurity & Machine Learning
 
 <!-- GitHub Stats Card -->
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-077&show_icons=true&theme=tokyonight)
-
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=Harshit-077&theme=tokyonight&hide_border=true)
 
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-077&layout=compact&theme=tokyonight)
