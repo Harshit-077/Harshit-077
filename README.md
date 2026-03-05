@@ -1,5 +1,5 @@
 # Hi, I'm Harshit Sharma 👋
-
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/agrim92/agrim92/assets/68190624/cd950ecf-d0a9-427f-bb36-24bea830e7c9)
 🎓 **3rd Year B.Tech Computer Science Engineering Student @ LPU**  
 💻 **Full Stack Developer | Machine Learning & NLP Enthusiast | Cybersecurity Explorer**
 
