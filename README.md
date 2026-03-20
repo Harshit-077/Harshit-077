@@ -88,27 +88,22 @@ I build **intelligent, production-ready systems** by combining **software engine
 
 ### 🔹 AI & Machine Learning
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=SpellChecker&theme=tokyonight)](https://github.com/Harshit-077/SpellChecker)
-
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=ML&theme=tokyonight)](https://github.com/Harshit-077/ML)
-
----
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=MilvusRAG&theme=tokyonight)](https://github.com/Harshit-077/MilvusRAG)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=Animal-Face&theme=tokyonight)](https://github.com/Harshit-077/Animal-Face)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=SpellChecker&theme=tokyonight)](https://github.com/Harshit-077/SpellChecker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=ML&theme=tokyonight)](https://github.com/Harshit-077/ML)
 
 ---
 
 ### 🔹 Full Stack & Systems
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=CoWrite&theme=tokyonight)](https://github.com/Harshit-077/CoWrite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=OrderBook&theme=tokyonight)](https://github.com/Harshit-077/OrderBook)
 
----
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=Book-Recommender&theme=tokyonight)](https://github.com/Harshit-077/Book-Recommender)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=Real-Time-Memory-Allocation-Tracker&theme=tokyonight)](https://github.com/Harshit-077/Real-Time-Memory-Allocation-Tracker)
 
----
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=Book-Recommender&theme=tokyonight)](https://github.com/Harshit-077/Book-Recommender)
 
 ---
 
