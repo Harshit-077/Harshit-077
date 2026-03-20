@@ -1,95 +1,160 @@
 # Hi, I'm Harshit Sharma 👋
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/agrim92/agrim92/assets/68190624/cd950ecf-d0a9-427f-bb36-24bea830e7c9)
-🎓 **3rd Year B.Tech Computer Science Engineering Student @ LPU**  
-💻 **Full Stack Developer | Machine Learning & NLP Enthusiast | Cybersecurity Explorer**
 
-I enjoy building **production-ready software systems** and applying **machine learning** to solve real-world problems—especially in areas like **NLP, computer vision, and accessibility-focused applications**.
+🎓 3rd Year B.Tech CSE Student  
+💻 Full Stack Developer | AI Systems Builder | ML & NLP Enthusiast  
+
+I build **intelligent, production-ready systems** by combining **software engineering + machine learning + modern AI stacks (LLMs, RAG, vector DBs)**.
 
 ---
 
-## 👨‍💻 About Me
-- Passionate about **Full Stack Development, Machine Learning, and Cybersecurity**.
-- Currently strengthening my skills in **JavaScript, System Design, and scalable architectures**.
-- Awarded a **Silver Medal** in the NPTEL course *Privacy and Security in Social Media*.
-- Selected contributor for **GirlScript Summer of Code 2025**, with multiple PRs merged into production repositories.
-- Strong interest in **applied AI**, particularly multilingual NLP and computer vision systems with real-world usability.
+## 🚀 About Me
+
+- 🔥 Focused on **AI-powered applications & scalable backend systems**
+- 🧠 Exploring **LLMs, RAG pipelines, and vector databases (Milvus)**
+- ⚙️ Strong in **Data Structures, System Design, and Backend Engineering**
+- 🏆 Silver Medalist – *NPTEL: Privacy and Security in Social Media*
+- 🌍 Open Source Contributor – **GirlScript Summer of Code 2025**
+- 🎯 Goal: Build **real-world AI systems that people actually use**
+
+---
+
+## 🧠 AI Systems & LLM Engineering
+
+- Built **Retrieval-Augmented Generation (RAG)** pipelines  
+- Worked with **vector databases (Milvus, Pinecone)** for semantic search  
+- Implemented **embedding-based retrieval systems**  
+- Integrated **LLMs (Groq, Gemini API)** into applications  
+- Explored **LangChain, LangGraph, and multi-agent systems (CrewAI)**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category             | Tools & Technologies |
-|----------------------|---------------------|
-| **Languages**        | C, C++, Python, Java |
-| **Web Development**  | HTML, CSS, JavaScript, Next.js |
-| **Databases**        | MySQL, MongoDB |
-| **Tools & Platforms**| Git, GitHub, VS Code, Cisco Packet Tracer |
-| **Core Concepts**    | Data Structures & Algorithms, Computer Networks, Computer Architecture |
-| **AI / ML**          | Machine Learning, CNNs, BiLSTM, LangChain, LangGraph, CrewAI, Gemini API |
+### 💻 Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-## 🚀 Projects & Highlights
-
-- **Hindi Spell Checker (BiLSTM + NLP)**  
-  Designed and implemented a deep learning–based Hindi spell checker using **Bidirectional LSTM**, focusing on contextual spelling correction.  
-  Built an **interactive user interface** for real-time text validation, emphasizing accessibility for native Hindi users.
-
-- **Plant Disease Detection & Remedy System (CNN + Gemini API)**  
-  Developed a computer vision–based system using **Convolutional Neural Networks (CNNs)** to detect plant diseases from leaf images.  
-  Integrated **Gemini API** to provide intelligent, context-aware **remedy suggestions**, helping farmers and learners take actionable steps after diagnosis.
-
-- **Open Source Contributions (GSSoC 2025)**  
-  Contributed UI improvements and accessibility fixes to production-grade repositories, including  
-  [DSA Sheet Template](https://dsa-sheet-template.vercel.app/).
-
-- **Academic Achievement**  
-  Silver Medalist in NPTEL’s *Privacy and Security in Social Media* course.
+### 🌐 Web & Backend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects
-
-- **CoWrite** – A Google Docs–like real-time collaborative editor built using **TypeScript**.
-- **Hindi-Spell-Checker** – A **BiLSTM-based NLP system** with an interactive UI for Hindi spell correction.
-- **Plant-Disease-Detection** – CNN-based plant disease detection system with **AI-powered remedy suggestions** via Gemini API.
-- **PortfolioWebsite** – Personal portfolio website built using **HTML & CSS**, deployed live.
-- **Book-Recommender** – A Jupyter Notebook project that recommends books based on user preferences.
-- **Real-Time-Memory-Allocation-Tracker** – Python-based visualization tool demonstrating **paging and segmentation** in operating systems.
-- **Crew-AI** – Experiments and visualizations exploring **CrewAI**, a multi-agent AI framework.
-- **LangGraph** – Visual exploration of language processing and graph-based workflows using Jupyter Notebooks.
+### 🧠 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge)
+![BiLSTM](https://img.shields.io/badge/BiLSTM-6A5ACD?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-00C4CC?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Statistics
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A0A0A?style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit-077&show_icons=true&theme=tokyonight&cache_seconds=86400)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-077&layout=compact&theme=tokyonight&cache_seconds=86400)
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
+## 🏗️ System Design & Engineering
+
+- Designed **modular backend systems using FastAPI**
+- Built **end-to-end AI pipelines (data → embeddings → retrieval → LLM)**
+- Understanding **scalable architectures & API design**
+- Exploring **real-time and distributed systems**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI & Machine Learning
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=SpellChecker&theme=tokyonight)](https://github.com/Harshit-077/SpellChecker)
+
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=ML&theme=tokyonight)](https://github.com/Harshit-077/ML)
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=MilvusRAG&theme=tokyonight)](https://github.com/Harshit-077/MilvusRAG)
+
+---
+
+### 🔹 Full Stack & Systems
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=CoWrite&theme=tokyonight)](https://github.com/Harshit-077/CoWrite)
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=Real-Time-Memory-Allocation-Tracker&theme=tokyonight)](https://github.com/Harshit-077/Real-Time-Memory-Allocation-Tracker)
+
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-077&repo=Book-Recommender&theme=tokyonight)](https://github.com/Harshit-077/Book-Recommender)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit-077&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-077&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harshit-077&theme=tokyo-night)
+
+
+---
+
+## 📈 What I'm Currently Building
+
+- 🔥 RAG system using **Milvus + Sentence Transformers + Groq**
+- ⚙️ Transitioning to **FastAPI + Next.js full stack architecture**
+- 🧠 Deep diving into **System Design & scalable AI systems**
 
 ---
 
 ## 🤝 Connect With Me
-- **LinkedIn:** [Harshit Sharma](https://www.linkedin.com/in/harshitsharma77)
-- **Instagram:** [@harshit_sharma280](https://www.instagram.com/harshit_sharma280)
-- **Email:** harshitsharma.0777@gmail.com
+
+- LinkedIn: https://www.linkedin.com/in/harshitsharma77  
+- Instagram: https://www.instagram.com/harshit_sharma280  
+- Email: harshitsharma.0777@gmail.com  
 
 ---
 
 ## 🎧 Fun Facts
-- I’m inspired by **neoclassical and cinematic music**, especially composers like **Hans Zimmer** and **Gibran Alcocer**—perfect companions for deep focus and long coding sessions.
-- I prefer observing and understanding systems deeply before acting.
-- I stay curious and engaged with coding, even during challenging phases.
+
+- Inspired by composers like Hans Zimmer & Gibran Alcocer 🎶  
+- Enjoy deep focus sessions while building complex systems  
+- Curious about how things work under the hood  
 
 ---
 
-## 🔮 What’s Next
-- Deep diving into **System Design** and large-scale architectures.
-- Building **accessible, scalable, production-grade web applications**.
-- Exploring **advanced NLP and computer vision models**, especially for low-resource and real-world use cases.
-- Continuing meaningful **open-source contributions** through GSSoC and beyond.
+## 🔮 Vision
+
+To become an engineer who builds **intelligent, scalable systems at the intersection of AI and software engineering**.
 
 ---
 
-⭐ *Thanks for stopping by! If you like my work, feel free to star a repo or reach out—let’s build something meaningful together.*
+⭐ If you like my work, feel free to star a repo or connect!
+
+---
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
