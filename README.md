@@ -1,89 +1,111 @@
-# Hi, I'm Harshit Sharma 👋
-![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/agrim92/agrim92/assets/68190624/cd950ecf-d0a9-427f-bb36-24bea830e7c9)
+# Harshit Sharma
 
-🎓 3rd Year B.Tech CSE Student  
-💻 Full Stack Developer | AI Systems Builder | ML & NLP Enthusiast  
-
-I build **intelligent, production-ready systems** by combining **software engineering + machine learning + modern AI stacks (LLMs, RAG, vector DBs)**.
+**AI Engineer • Full Stack Developer • ML Systems Builder**
 
 ---
 
-## 🚀 About Me
+## 🧠 Overview
 
-- 🔥 Focused on **AI-powered applications & scalable backend systems**
-- 🧠 Exploring **LLMs, RAG pipelines, and vector databases (Milvus)**
-- 🤟 Built a **multi-modal NMF detection system for Indian Sign Language**
-- ⚙️ Strong in **Data Structures, System Design, and Backend Engineering**
-- 🏆 Silver Medalist – *NPTEL: Privacy and Security in Social Media*
-- 🎯 Goal: Build **real-world AI systems that people actually use**
+I build end-to-end AI systems that combine machine learning, backend engineering, and scalable architectures.
+
+My focus is on turning research ideas (LLMs, vision models, sequence models) into usable, production-ready applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Work On
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🌐 Web & Backend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-
-### 🧠 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ResNet](https://img.shields.io/badge/ResNet-FF6F00?style=for-the-badge)
-![TCN](https://img.shields.io/badge/Temporal_CNN-4B0082?style=for-the-badge)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-00C4CC?style=for-the-badge)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-0A0A0A?style=for-the-badge)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- AI systems using LLMs, RAG pipelines, and vector databases  
+- Multimodal machine learning (vision + temporal + keypoints)  
+- Backend systems for deploying ML models at scale  
+- System design for real-world AI applications  
 
 ---
 
-## 🚀 Featured Projects
+## 🔬 Current Focus
 
-### 🔬 Research & Computer Vision
-
-> **Non-Manual Features in Indian Sign Language**  
-> A multi-modal deep learning pipeline that detects grammatically relevant facial expressions and head movements in ISL video — cues that function like tone and grammar in spoken language.
->
-> - **Facial Expression:** ResNet + TCN for temporal classification across ISL grammatical categories (negation, yes/no questions, topicalization)
-> - **Head Pose:** Causal dilated TCN over pitch/yaw/roll signals
-> - **Sentence Context:** TCN over 225-dim MediaPipe keypoints for full-body classification
-> - Pseudo-label pipeline for low-resource ISL data with AffectNet-pretrained backbone
->
-> `PyTorch` `ResNet` `TCN` `MediaPipe` `OpenCV` `AffectNet`
+- Multi-agent systems using **LangChain + LangGraph + Groq**
+- RAG pipelines with **Milvus + embeddings + LLM orchestration**
+- Production backend design using **FastAPI + Next.js**
+- Scalable AI architecture and system design fundamentals  
 
 ---
 
-## 📈 What I'm Currently Building
+## 🧠 Featured Work
 
-- 🔥 Multi Agent system using **Milvus + Sentence Transformers + Groq + Langchain + LangGraph**
-- ⚙️ Transitioning to **FastAPI + Next.js full stack architecture**
-- 🧠 Deep diving into **System Design & scalable AI systems**
+### 🇮🇳 Indian Sign Language Understanding System
+
+A multimodal deep learning pipeline designed to capture **non-manual grammatical features** in Indian Sign Language.
+
+This system focuses on facial expressions and head movements that function as linguistic signals in ISL.
+
+**Key Contributions:**
+
+- Temporal facial expression classification using **ResNet + TCN**
+- Causal modeling of head pose dynamics (pitch, yaw, roll) using **dilated TCN**
+- Full-body keypoint processing using **MediaPipe (225-dim feature space)**
+- Pseudo-labeling strategy for low-resource ISL dataset training
+- Transfer learning using **AffectNet-pretrained encoders**
+
+**Stack:** PyTorch • ResNet • TCN • MediaPipe • OpenCV • AffectNet  
+
+
+---
+### 🛡️ CodeSentinel — AI Code Vulnerability Detection System
+
+An AI-powered static + semantic analysis system designed to detect vulnerabilities in source code using machine learning and LLM-assisted reasoning.
+
+The system combines traditional static analysis concepts with modern embedding-based and LLM-driven code understanding.
+
+**Key Contributions:**
+
+- Built a code intelligence pipeline for vulnerability detection in real-world codebases  
+- Designed hybrid analysis approach using **AST parsing + embedding-based semantic search**  
+- Integrated LLM-assisted reasoning for contextual vulnerability explanation  
+- Implemented modular backend architecture for scanning and analysis workflows  
+- Focused on detecting common security issues (injection risks, unsafe patterns, logic flaws)  
+
+**Stack:** Python • AST parsing • NLP embeddings • LLMs • FastAPI • Static analysis concepts  
 
 ---
 
-## 🤝 Connect With Me
+## ⚙️ Tech Stack
+
+**Languages:**  
+C • C++ • Python • Java • JavaScript • TypeScript  
+
+**AI / ML:**  
+PyTorch • NLP • LLMs • RAG • Embeddings • MediaPipe  
+
+**Backend / Full Stack:**  
+FastAPI • Node.js • Next.js • REST APIs  
+
+**Databases / Infra:**  
+MySQL • MongoDB • Milvus • Pinecone  
+
+**Tools:**  
+Git • GitHub • Linux • Postman • VS Code  
+
+---
+
+## 📌 Engineering Mindset
+
+- Prefer building systems over isolated models  
+- Focus on latency, scalability, and real-world constraints  
+- Treat ML models as components of larger distributed systems  
+- Strong belief in “deploy or it doesn’t exist”  
+
+---
+
+## 📊 Currently Building
+
+- Multi-agent AI system with tool-calling and orchestration  
+- RAG-based knowledge systems using vector search  
+- Backend architecture for production AI applications  
+- System design patterns for AI-first products  
+
+---
+
+## 📫 Connect
 
 - LinkedIn: https://www.linkedin.com/in/harshitsharma77  
 - Instagram: https://www.instagram.com/harshiiitsharmaa  
@@ -91,4 +113,6 @@ I build **intelligent, production-ready systems** by combining **software engine
 
 ---
 
-⭐ If you like my work, feel free to star a repo or connect!
+## ⭐
+
+If you find my work interesting, feel free to connect or explore my repositories.
